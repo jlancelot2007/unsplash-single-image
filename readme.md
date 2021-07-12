@@ -2,7 +2,9 @@
 
 Unsplash.com provides beautiful photographic images by a variety of photographers that are accessible via an api delivered through a CDN to registered developers.
 
-The Unsplash API documentation is comprehensive but for many developers all they probably need is a way to use the api with their API KEY to obtain a fracrtion of the data that the api returns by default.
+The Unsplash API documentation is comprehensive but for many developers all they probably need is a way to use the api with their API KEY to obtain a fraction of the data that the api returns by default.
+The output.txt has a sample of the full output data from the api as a reference, if you need more or less than the default logged data in the index.js file
+
 
 ## What this repo does
 
